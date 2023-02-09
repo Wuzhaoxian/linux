@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "---"
-date
+df -h
+echo "结束"
